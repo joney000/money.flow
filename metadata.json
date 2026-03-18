@@ -1,0 +1,5 @@
+{
+  "name": "Global Capital Flows",
+  "description": "Analyze week-over-week money movement across top 50 countries and asset classes.",
+  "requestFramePermissions": []
+}
